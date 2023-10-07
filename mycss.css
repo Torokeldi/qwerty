@@ -267,15 +267,11 @@ body{
     color: #FFF;
     font-family: Krone One;
     font-size: 24px;
-    font-style: normal;
     text-transform: uppercase;
     font-weight: 400;
-    line-height: normal;
 }
 
 .icons svg{
     width: 42px;
     height: 30px;
-    flex-shrink: 0;
 }
-
